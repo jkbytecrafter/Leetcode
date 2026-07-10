@@ -30,12 +30,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0113-path-sum-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->

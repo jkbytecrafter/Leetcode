@@ -14,8 +14,6 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int num1=nums[i][i];
             int num2=nums[i][nums.length-1-i];
-            boolean b1 = isPrime(num1);
-            boolean b2 = isPrime(num2);
             if(isPrime(num1)) 
                 ans = Math.max(ans, num1);
             if(isPrime(num2)) 

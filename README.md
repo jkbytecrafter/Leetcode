@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
+| [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Backtracking
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/jkbytecrafter/Leetcode/tree/master/1291-sequential-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |
 <!---LeetCode Topics End-->

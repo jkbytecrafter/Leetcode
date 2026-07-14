@@ -9,31 +9,15 @@
  */
 
 class Solution {
-    public TreeNode dfs(TreeNode node,TreeNode p, TreeNode q){
-        if(node==null){
-            return null;
-        } 
-        if(node==p || node==q) {
-            return node;
-        }
-        TreeNode left = dfs(node.left,p,q);
-        TreeNode right = dfs(node.right,p,q);
-        
-        if(right!=null && left!=null) {
-            return node;
-        }
-        if(left!= null) {
-           return left;
-        }
-
-        if(right!=null) {
-            return right;
-        }
-        
-
-      return null;
-    }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        return dfs(root,p,q);
+        while(root!=null){
+            if((root == p || root == q) || (root.val > p.val && root.val < q.val) || (root.val < p.val && root.val > q.val)) return root;
+            if(root.val>p.val && root.val>q.val){
+                root = root.left;
+            }else if(root.val<p.val && root.val<q.val){
+                root = root.right;
+            }
+        }
+        return root;
     }
 }

@@ -13,13 +13,13 @@ class Solution {
 
     }
     public int gcdOfOddEvenSums(int n) {
-        int sumEven=0,sumOdd=0,even=2,odd=1;
-        for(int i=1;i<=n;i++){
-            sumEven+=even;
-            even+=2;
-            sumOdd+=odd;
-            odd+=2;
-        }
-        return gcd(sumOdd,sumEven);
+        // int sumEven=0,sumOdd=0,even=2,odd=1;
+        // for(int i=1;i<=n;i++){
+        //     sumEven+=even;
+        //     even+=2;
+        //     sumOdd+=odd;
+        //     odd+=2;
+        // }
+        return gcd(n*n,n*(n+1));
     }
 }

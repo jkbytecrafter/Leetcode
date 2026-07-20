@@ -172,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/jkbytecrafter/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

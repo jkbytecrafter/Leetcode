@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/jkbytecrafter/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Dynamic Programming
 |  |
 | ------- |

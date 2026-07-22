@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,4 +203,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->

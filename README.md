@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2256-minimum-average-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/jkbytecrafter/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
 ## Tree
 |  |

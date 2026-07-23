@@ -1,12 +1,11 @@
 class Solution {
     public String destCity(List<List<String>> paths) {
-        HashMap<String,Integer> mpp=new HashMap<>();
+        HashSet<String> st=new HashSet<>();
         for(int i=0;i<paths.size();i++){
-            mpp.put(paths.get(i).get(0),1);
+            st.add(paths.get(i).get(0));
         }
         for(int i=0;i<paths.size();i++){
-            if(mpp.get(paths.get(i).get(1)) == null)
-                return paths.get(i).get(1);
+            if(!st.contains(paths.get(i).get(1))) return paths.get(i).get(1);
         }
         return "";
     }

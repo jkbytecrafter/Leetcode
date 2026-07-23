@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/jkbytecrafter/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/jkbytecrafter/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2256-minimum-average-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |

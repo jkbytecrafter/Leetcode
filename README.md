@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2256-minimum-average-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Monotonic Stack
 |  |

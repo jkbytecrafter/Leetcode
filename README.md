@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
 | [0509-fibonacci-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/jkbytecrafter/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/jkbytecrafter/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
+| [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Monotonic Stack
 |  |

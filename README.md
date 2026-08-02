@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jkbytecrafter/Leetcode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
+| [0504-base-7](https://github.com/jkbytecrafter/Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/jkbytecrafter/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
+| [0504-base-7](https://github.com/jkbytecrafter/Leetcode/tree/master/0504-base-7) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |

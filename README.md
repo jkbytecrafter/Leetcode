@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jkbytecrafter/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/jkbytecrafter/Leetcode/tree/master/0075-sort-colors) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |

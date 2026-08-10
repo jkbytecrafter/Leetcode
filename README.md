@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/jkbytecrafter/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search Tree
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -292,8 +295,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

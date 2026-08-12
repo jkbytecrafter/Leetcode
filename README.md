@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/jkbytecrafter/Leetcode/tree/master/1496-path-crossing) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/jkbytecrafter/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/jkbytecrafter/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/jkbytecrafter/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |

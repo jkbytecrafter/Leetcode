@@ -1,14 +1,47 @@
 class Solution {
-    public int largestInteger(int[] A, int k) {
-        int[] f = new int[51];
-        for (int x : A)
-            f[x]++;
+    public int largestInteger(int[] nums, int k) {
+        int n = nums.length;
 
-        int res = -1, n = A.length;
-        for (int i = 0; i < n; i++) 
-            if (k == n || (f[A[i]] == 1 && (k == 1 || i == 0 || i == n - 1)))
-                res = Math.max(res, A[i]);
+        if (k == n) {
+            int maxValue = nums[0];
+            for (int x : nums) {
+                maxValue = Math.max(maxValue, x);
+            }
+            return maxValue;
+        }
+        List<Integer> arr = new ArrayList<>();
+        if (k == 1) {
+            for (int x : nums) {
+                int count = 0;
 
-        return res;
+                for (int y : nums) {
+                    if (x == y) {
+                        count++;
+                    }
+                }
+                if (count == 1) {
+                    arr.add(x);
+                }
+            }
+        } 
+        else {
+            int[] candidates = {nums[0], nums[n - 1]};
+            for (int x : candidates) {
+                int count = 0;
+
+                for (int y : nums) {
+                    if (x == y) {
+                        count++;
+                    }
+                }
+                if (count == 1) {
+                    arr.add(x);
+                }
+            }
+        }
+        if (arr.isEmpty()) {
+            return -1;
+        }
+        return Collections.max(arr);
     }
 }

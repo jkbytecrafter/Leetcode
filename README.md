@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/jkbytecrafter/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/jkbytecrafter/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0183-customers-who-never-order](https://github.com/jkbytecrafter/Leetcode/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/jkbytecrafter/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/jkbytecrafter/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1693-daily-leads-and-partners](https://github.com/jkbytecrafter/Leetcode/tree/master/1693-daily-leads-and-partners) |
 ## Bit Manipulation

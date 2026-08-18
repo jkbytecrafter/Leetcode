@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/jkbytecrafter/Leetcode/tree/master/1496-path-crossing) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/jkbytecrafter/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3731-find-missing-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/jkbytecrafter/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |

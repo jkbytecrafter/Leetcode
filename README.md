@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0561-array-partition](https://github.com/jkbytecrafter/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jkbytecrafter/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0509-fibonacci-number) |
 | [0956-tallest-billboard](https://github.com/jkbytecrafter/Leetcode/tree/master/0956-tallest-billboard) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Combinatorics
 |  |

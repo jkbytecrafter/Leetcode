@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-daily-leads-and-partners](https://github.com/jkbytecrafter/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/jkbytecrafter/Leetcode/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/jkbytecrafter/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/jkbytecrafter/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jkbytecrafter/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |

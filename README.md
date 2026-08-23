@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/jkbytecrafter/Leetcode/tree/master/1563-stone-game-v) |
 | [1688-count-of-matches-in-tournament](https://github.com/jkbytecrafter/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/jkbytecrafter/Leetcode/tree/master/2029-stone-game-ix) |
 | [2523-closest-prime-numbers-in-range](https://github.com/jkbytecrafter/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/jkbytecrafter/Leetcode/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/jkbytecrafter/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jkbytecrafter/Leetcode/tree/master/2029-stone-game-ix) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jkbytecrafter/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jkbytecrafter/Leetcode/tree/master/2029-stone-game-ix) |
 ## Longest Common Subsequence
 |  |

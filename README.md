@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jkbytecrafter/Leetcode/tree/master/0133-clone-graph) |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jkbytecrafter/Leetcode/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/jkbytecrafter/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/jkbytecrafter/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jkbytecrafter/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1872-stone-game-viii](https://github.com/jkbytecrafter/Leetcode/tree/master/1872-stone-game-viii) |

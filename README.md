@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jkbytecrafter/Leetcode/tree/master/0012-integer-to-roman) |
+| [0128-longest-consecutive-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/jkbytecrafter/Leetcode/tree/master/0133-clone-graph) |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jkbytecrafter/Leetcode/tree/master/0409-longest-palindrome) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jkbytecrafter/Leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [2685-count-the-number-of-complete-components](https://github.com/jkbytecrafter/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |

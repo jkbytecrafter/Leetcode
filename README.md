@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/jkbytecrafter/Leetcode/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/jkbytecrafter/Leetcode/tree/master/0443-string-compression) |
 | [0504-base-7](https://github.com/jkbytecrafter/Leetcode/tree/master/0504-base-7) |
+| [0848-shifting-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0848-shifting-letters) |
 | [1143-longest-common-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/jkbytecrafter/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jkbytecrafter/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0848-shifting-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/0867-transpose-matrix) |
 | [0956-tallest-billboard](https://github.com/jkbytecrafter/Leetcode/tree/master/0956-tallest-billboard) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jkbytecrafter/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
+| [0848-shifting-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0848-shifting-letters) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jkbytecrafter/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |

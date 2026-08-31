@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jkbytecrafter/Leetcode/tree/master/0133-clone-graph) |
 | [0389-find-the-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/jkbytecrafter/Leetcode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
 | [0504-base-7](https://github.com/jkbytecrafter/Leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/jkbytecrafter/Leetcode/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/jkbytecrafter/Leetcode/tree/master/0525-contiguous-array) |
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -434,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jkbytecrafter/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

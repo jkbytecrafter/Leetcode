@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3951-minimum-energy-to-maintain-brightness](https://github.com/jkbytecrafter/Leetcode/tree/master/3951-minimum-energy-to-maintain-brightness) |
 ## Backtracking
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/jkbytecrafter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2256-minimum-average-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2256-minimum-average-difference) |
 | [3903-smallest-stable-index-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Recursion
 |  |
 | ------- |

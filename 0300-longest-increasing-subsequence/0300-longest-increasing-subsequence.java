@@ -1,29 +1,28 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        List<Integer> sorted = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            int index = binarySearch(sorted, nums[i]);
-            if (index == sorted.size())
-                sorted.add(nums[i]);
-            else
-                sorted.set(index, nums[i]);
-        }
-        return sorted.size();
-    }
+        TreeMap<Integer, Integer> mp = new TreeMap<>();
+        int ans = 0;
 
-    private int binarySearch(List<Integer> sorted, int target) {
-        int left = 0, right = sorted.size();
-        int result = sorted.size();
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (sorted.get(mid) < target) {
-                left = mid + 1;
-            } else {
-                result = mid;
-                right = mid;
+        for (int i = 0; i < n; i++) {
+            int len = 1;
+
+            Integer key = mp.lowerKey(nums[i]);
+            if (key != null) {
+                len += mp.get(key);
             }
+
+            mp.put(nums[i], Math.max(mp.getOrDefault(nums[i], 0), len));
+
+            key = mp.higherKey(nums[i]);
+            while (key != null && mp.get(key) <= len) {
+                mp.remove(key);
+                key = mp.higherKey(nums[i]);
+            }
+
+            ans = Math.max(ans, len);
         }
-        return result;
+
+        return ans;
     }
 }

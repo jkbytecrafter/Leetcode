@@ -14,30 +14,18 @@
  * }
  */
 class Solution {
-    private int result;
-    public int findSum(TreeNode root,int[] count){
-        if(root== null){
-            return 0;
-        }
-        count[0]++;
-        int lsum=findSum(root.left,count);
-        int rsum=findSum(root.right,count);
-        return lsum+rsum+root.val;
-    }
-    public void solve(TreeNode root){
-        if(root== null){
-            return ;
-        }
-        int[] count = {0};
-        int sum=findSum(root,count);
-        if(root.val==sum/count[0]){
-            result++;
-        }
-        solve(root.left);
-        solve(root.right);
+    private int result=0;
+    public int[] solve(TreeNode root){
+        if(root == null) return new int[]{0,0};
+        int[] lsum=solve(root.left);
+        int[] rsum=solve(root.right);
+        int totalSum=lsum[0] + rsum[0] + root.val;
+        int count=lsum[1] + rsum[1] + 1;
+        int avg=totalSum / count;
+        if(avg == root.val) result++;
+        return new int[]{totalSum,count};
     }
     public int averageOfSubtree(TreeNode root) {
-        result = 0;
         solve(root);
         return result;
     }

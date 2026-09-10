@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/jkbytecrafter/Leetcode/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/jkbytecrafter/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/jkbytecrafter/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Matrix
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jkbytecrafter/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/jkbytecrafter/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |

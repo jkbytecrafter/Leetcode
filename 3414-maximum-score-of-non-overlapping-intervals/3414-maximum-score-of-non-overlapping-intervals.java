@@ -56,7 +56,7 @@ public class Solution {
         List<Integer> bestChoice = new ArrayList<>();
         for (int k = 1; k <= 4; k++) {
             List<Integer> cand = choice[n-1][k];
-            if (dp[n-1][k] >= best || (dp[n-1][k] == best && lexicographicallySmaller(cand, bestChoice))) {
+            if (dp[n-1][k] > best || (dp[n-1][k] == best && lexicographicallySmaller(cand, bestChoice))) {
                 best = dp[n-1][k];
                 bestChoice = cand;
             }

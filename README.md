@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/jkbytecrafter/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jkbytecrafter/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/jkbytecrafter/Leetcode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/jkbytecrafter/Leetcode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1048-longest-string-chain](https://github.com/jkbytecrafter/Leetcode/tree/master/1048-longest-string-chain) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jkbytecrafter/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jkbytecrafter/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/jkbytecrafter/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |

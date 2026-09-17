@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/jkbytecrafter/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0119-pascals-triangle-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/jkbytecrafter/Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/0867-transpose-matrix) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jkbytecrafter/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jkbytecrafter/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/jkbytecrafter/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/jkbytecrafter/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |

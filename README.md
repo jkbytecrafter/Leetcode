@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1496-path-crossing](https://github.com/jkbytecrafter/Leetcode/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jkbytecrafter/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jkbytecrafter/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/jkbytecrafter/Leetcode/tree/master/1496-path-crossing) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/jkbytecrafter/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1386-cinema-seat-allocation](https://github.com/jkbytecrafter/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/jkbytecrafter/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jkbytecrafter/Leetcode/tree/master/2029-stone-game-ix) |

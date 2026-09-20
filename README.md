@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/jkbytecrafter/Leetcode/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/jkbytecrafter/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/jkbytecrafter/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0413-arithmetic-slices](https://github.com/jkbytecrafter/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/jkbytecrafter/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/jkbytecrafter/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/jkbytecrafter/Leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/jkbytecrafter/Leetcode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |

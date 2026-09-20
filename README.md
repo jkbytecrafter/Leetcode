@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/jkbytecrafter/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/jkbytecrafter/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/jkbytecrafter/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/jkbytecrafter/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/jkbytecrafter/Leetcode/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/jkbytecrafter/Leetcode/tree/master/1693-daily-leads-and-partners) |

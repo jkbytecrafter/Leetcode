@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jkbytecrafter/Leetcode/tree/master/0011-container-with-most-water) |
 | [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/jkbytecrafter/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jkbytecrafter/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/jkbytecrafter/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/jkbytecrafter/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/jkbytecrafter/Leetcode/tree/master/0283-move-zeroes) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/jkbytecrafter/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/jkbytecrafter/Leetcode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/0334-increasing-triplet-subsequence) |

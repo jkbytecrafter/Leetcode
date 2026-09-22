@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/jkbytecrafter/Leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/jkbytecrafter/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/jkbytecrafter/Leetcode/tree/master/1873-calculate-special-bonus) |
+| [1934-confirmation-rate](https://github.com/jkbytecrafter/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/jkbytecrafter/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |

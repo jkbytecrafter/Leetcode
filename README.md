@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jkbytecrafter/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jkbytecrafter/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/jkbytecrafter/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0113-path-sum-ii) |
 | [1096-brace-expansion-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1096-brace-expansion-ii) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jkbytecrafter/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/jkbytecrafter/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/jkbytecrafter/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/jkbytecrafter/Leetcode/tree/master/0115-distinct-subsequences) |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

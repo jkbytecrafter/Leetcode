@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jkbytecrafter/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/jkbytecrafter/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jkbytecrafter/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/jkbytecrafter/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/jkbytecrafter/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [2352-equal-row-and-column-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jkbytecrafter/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/jkbytecrafter/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/jkbytecrafter/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/jkbytecrafter/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jkbytecrafter/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/jkbytecrafter/Leetcode/tree/master/2614-prime-in-diagonal) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jkbytecrafter/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree

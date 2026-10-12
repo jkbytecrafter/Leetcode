@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/jkbytecrafter/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/jkbytecrafter/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/jkbytecrafter/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/jkbytecrafter/Leetcode/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/jkbytecrafter/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/jkbytecrafter/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/jkbytecrafter/Leetcode/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -746,4 +750,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/jkbytecrafter/Leetcode/tree/master/0933-number-of-recent-calls) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->

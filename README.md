@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/jkbytecrafter/Leetcode/tree/master/0835-image-overlap) |
 | [0848-shifting-letters](https://github.com/jkbytecrafter/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/jkbytecrafter/Leetcode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/jkbytecrafter/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0956-tallest-billboard](https://github.com/jkbytecrafter/Leetcode/tree/master/0956-tallest-billboard) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jkbytecrafter/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/jkbytecrafter/Leetcode/tree/master/0994-rotting-oranges) |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/jkbytecrafter/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0611-valid-triangle-number](https://github.com/jkbytecrafter/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/jkbytecrafter/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jkbytecrafter/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |

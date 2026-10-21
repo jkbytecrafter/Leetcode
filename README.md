@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/jkbytecrafter/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jkbytecrafter/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jkbytecrafter/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |

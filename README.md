@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/jkbytecrafter/Leetcode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/jkbytecrafter/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/jkbytecrafter/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/jkbytecrafter/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/jkbytecrafter/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/jkbytecrafter/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/jkbytecrafter/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0119-pascals-triangle-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/jkbytecrafter/Leetcode/tree/master/0120-triangle) |

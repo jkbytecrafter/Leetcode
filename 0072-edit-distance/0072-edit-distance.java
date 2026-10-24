@@ -93,11 +93,12 @@ class Solution {
             dp[i][j] = rec(s1, s2, i+1, j+1, dp);
         }
         else{
-            int insert = rec(s1, s2, i, j+1, dp);
-            int delete = rec(s1, s2, i+1, j, dp);
-            int replace = rec(s1, s2, i+1, j+1, dp);
+            int insert = 1 + rec(s1, s2, i, j+1, dp);
+            int delete = 1 + rec(s1, s2, i+1, j, dp);
+            int replace = 1 + rec(s1, s2, i+1, j+1, dp);
             dp[i][j] = Math.min(insert, Math.min(delete, replace));
         }
+
         return dp[i][j];
     }
 }

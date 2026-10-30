@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jkbytecrafter/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/jkbytecrafter/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2685-count-the-number-of-complete-components](https://github.com/jkbytecrafter/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/jkbytecrafter/Leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/jkbytecrafter/Leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/jkbytecrafter/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/jkbytecrafter/Leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jkbytecrafter/Leetcode/tree/master/0399-evaluate-division) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |

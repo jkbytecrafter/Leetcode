@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jkbytecrafter/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jkbytecrafter/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/jkbytecrafter/Leetcode/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/jkbytecrafter/Leetcode/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jkbytecrafter/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jkbytecrafter/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/jkbytecrafter/Leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/jkbytecrafter/Leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/jkbytecrafter/Leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jkbytecrafter/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/jkbytecrafter/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jkbytecrafter/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jkbytecrafter/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jkbytecrafter/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |

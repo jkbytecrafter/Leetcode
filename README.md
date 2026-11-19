@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/jkbytecrafter/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/jkbytecrafter/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jkbytecrafter/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/jkbytecrafter/Leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/jkbytecrafter/Leetcode/tree/master/1436-destination-city) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jkbytecrafter/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/jkbytecrafter/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/jkbytecrafter/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/jkbytecrafter/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/jkbytecrafter/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jkbytecrafter/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jkbytecrafter/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1048-longest-string-chain](https://github.com/jkbytecrafter/Leetcode/tree/master/1048-longest-string-chain) |
 | [1096-brace-expansion-ii](https://github.com/jkbytecrafter/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1331-rank-transform-of-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jkbytecrafter/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/jkbytecrafter/Leetcode/tree/master/1402-reducing-dishes) |
@@ -635,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/jkbytecrafter/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/jkbytecrafter/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jkbytecrafter/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jkbytecrafter/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jkbytecrafter/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/jkbytecrafter/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -818,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jkbytecrafter/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jkbytecrafter/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/jkbytecrafter/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -1008,4 +1013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/jkbytecrafter/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Trie
+|  |
+| ------- |
+| [1268-search-suggestions-system](https://github.com/jkbytecrafter/Leetcode/tree/master/1268-search-suggestions-system) |
 <!---LeetCode Topics End-->
